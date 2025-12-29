@@ -1,0 +1,23 @@
+{
+    "extratrees": {
+        "multiclass_logloss": 0.7749648102320494,
+        "class4_accuracy": 0.66,
+        "binary_logloss": 0.33811032405357294,
+        "class2_accuracy": 0.8666666666666667,
+        "perplexity": 1.402295201762653
+    },
+    "xgb": {
+        "multiclass_logloss": 0.7853929648803682,
+        "class4_accuracy": 0.6844444444444444,
+        "binary_logloss": 0.319341736698166,
+        "class2_accuracy": 0.8666666666666667,
+        "perplexity": 1.3762215499633133
+    },
+    "randomforest": {
+        "multiclass_logloss": 0.7802197015501051,
+        "class4_accuracy": 0.6333333333333333,
+        "binary_logloss": 0.34424362588574486,
+        "class2_accuracy": 0.86,
+        "perplexity": 1.410922330842007
+    }
+}
