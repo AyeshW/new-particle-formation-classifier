@@ -71,14 +71,7 @@ coverage.xml
 Thumbs.db
 desktop.ini
 
-# Logs and databases
-*.log
-logs/
-*.sqlite3
-*.db
-
 # Model checkpoints and large artifacts
-models/
 checkpoints/
 *.h5
 *.hdf5
