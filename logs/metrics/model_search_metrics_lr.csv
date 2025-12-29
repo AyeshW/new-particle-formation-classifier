@@ -1,0 +1,2 @@
+multiclass_logloss,class4_accuracy,binary_logloss,class2_accuracy,perplexity,model
+1.3313079571206778,0.6488888888888888,0.6526748195797115,0.86,1.920671413764387,LogisticRegression

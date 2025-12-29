@@ -1,0 +1,2 @@
+multiclass_logloss,class4_accuracy,binary_logloss,class2_accuracy,perplexity,model
+0.7880696712222295,0.6533333333333333,0.3514105832498544,0.8488888888888889,1.4210706739631196,RandomForest

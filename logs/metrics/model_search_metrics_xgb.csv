@@ -1,0 +1,2 @@
+multiclass_logloss,class4_accuracy,binary_logloss,class2_accuracy,perplexity,model
+0.9266884927585958,0.6577777777777778,0.37414533541678413,0.86,1.4537484162362535,XGBoost

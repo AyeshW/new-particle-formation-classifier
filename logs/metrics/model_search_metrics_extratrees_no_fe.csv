@@ -1,0 +1,2 @@
+multiclass_logloss,class4_accuracy,binary_logloss,class2_accuracy,perplexity,model
+0.8026144141608295,0.6577777777777778,0.34694618518331144,0.8711111111111111,1.4147405893163472,ExtraTrees

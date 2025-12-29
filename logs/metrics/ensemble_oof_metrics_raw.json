@@ -1,0 +1,7 @@
+{
+    "multiclass_logloss": 0.7631013722708008,
+    "class4_accuracy": 0.6777777777777778,
+    "binary_logloss": 0.31911247633914175,
+    "class2_accuracy": 0.8711111111111111,
+    "perplexity": 1.3759060730812251
+}

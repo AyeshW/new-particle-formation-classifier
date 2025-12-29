@@ -1,0 +1,2 @@
+multiclass_logloss,class4_accuracy,binary_logloss,class2_accuracy,perplexity,model
+1.940194976301598,0.6244444444444445,0.7606081164016013,0.8422222222222222,2.1395769367910287,LightGBM
