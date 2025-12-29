@@ -83,7 +83,6 @@ checkpoints/
 data/
 raw_data/
 processed_data/
-downloads/
 
 # MLflow, TensorBoard, wandb
 mlruns/
