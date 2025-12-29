@@ -1,0 +1,107 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+ENV/
+env.bak/
+venv.bak/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nose2-junit.xml
+coverage.xml
+
+# Jupyter notebooks
+.ipynb_checkpoints
+*.nbconvert.ipynb
+
+# PyCharm / IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs and databases
+*.log
+logs/
+*.sqlite3
+*.db
+
+# Model checkpoints and large artifacts
+models/
+checkpoints/
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+
+# Data (adjust if you keep data under version control)
+data/
+raw_data/
+processed_data/
+downloads/
+
+# MLflow, TensorBoard, wandb
+mlruns/
+tb_runs/
+wandb/
+
+# MyPy, Cython
+.mypy_cache/
+cython_debug/
+
+# Misc
+*.tmp
+*.cache
+coverage/
