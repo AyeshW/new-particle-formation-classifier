@@ -146,7 +146,6 @@ p_event = 1 − P(nonevent)
 | **Ensemble (Calibrated)** | **0.678** | **0.871** | **1.376** | **0.725** |
 
 🏆 **Kaggle Performance**
-- Public Leaderboard: **0.74697 (Rank 49/150)**
 - Private Leaderboard: **0.74205 (Rank 15/150)**
 
 ---
